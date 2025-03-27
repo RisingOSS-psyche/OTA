@@ -17,7 +17,9 @@
       "paypal": "",
       "telegram": "https://t.me/Verevka86",
       "github": "RisingOSS-psyche",
-      "initial_installation_images": []
+      "initial_installation_images": [
+        "recovery"
+      ]
     }
   ]
 }
