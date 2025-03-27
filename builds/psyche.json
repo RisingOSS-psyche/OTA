@@ -18,7 +18,9 @@
       "telegram": "https://t.me/Verevka86",
       "github": "RisingOSS-psyche",
       "initial_installation_images": [
-        "recovery"
+        "boot",
+        "dtbo",
+        "vendor_boot"
       ]
     }
   ]
