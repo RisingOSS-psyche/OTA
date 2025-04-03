@@ -10,6 +10,8 @@ Notes:
 Device changes:
 --------------------
 - Last Update for 10.4
+- Re-add LeicaCamera ( MiuiCamera)
+- Fix camera work on lockscreen
 Rom changes:
 --------------------
 - March Security Update
