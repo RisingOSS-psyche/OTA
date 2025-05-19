@@ -8,12 +8,10 @@ Notes:
 
 Device changes:
 --------------------
-- Last Update for 10.4
-- Fix fingerprint icon
-- Fix fingerprint off screen
+- Last Update for 10.6
 Rom changes:
 --------------------
 - April Security Update
-- Fix Anti-Flicker Mod and HBM
+- Add MiuiCamera
 - More update and changes
-- Latest KernelSu-Next update
+- Latest KernelSu-Next (sysfs) update
