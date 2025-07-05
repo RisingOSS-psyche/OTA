@@ -9,6 +9,10 @@ Notes:
 Device changes:
 --------------------
 - Last Update for 11.0
+- Fix proximity
+- Fix IR
+- Fix dualsim
+- Fix other )
 Rom changes:
 --------------------
 - June Security Update
