@@ -12,6 +12,7 @@ Device changes:
 - Fix proximity
 - Fix IR
 - Fix dualsim
+- Fix NFC
 - Fix other )
 Rom changes:
 --------------------
