@@ -6,20 +6,16 @@ Notes:
 - Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
 
 
-Device changes:
---------------------
-- Last Update for 11.0
-- Fix proximity
-- Fix IR
-- Fix dualsim
-- Fix NFC
-- Fix other )
 Rom changes:
 --------------------
-- June Security Update
-- Add MiuiCamera
-- More update and changes
-- Latest KernelSu-Next (sysfs) update
+- July Security Update
+- Introduce OTA Updates
+- Fix display off UDFPS
+- Add KernelSU-Next (1.0.9)
+- SUSFS (1.5.9)
+- ADD MIUI/Leica camera
+- Fix AOD
+- Small update and changes
 
 --------------------
 Attention is Importent!!!
